@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoDojo", "MotoDojo\MotoDojo.csproj", "{10EA4AA8-796A-4DD1-AA36-80E6B88E5CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EA4AA8-796A-4DD1-AA36-80E6B88E5CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EA4AA8-796A-4DD1-AA36-80E6B88E5CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EA4AA8-796A-4DD1-AA36-80E6B88E5CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EA4AA8-796A-4DD1-AA36-80E6B88E5CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194ED5E1-A54E-4848-A646-9DCCD2308884}
+	EndGlobalSection
+EndGlobal

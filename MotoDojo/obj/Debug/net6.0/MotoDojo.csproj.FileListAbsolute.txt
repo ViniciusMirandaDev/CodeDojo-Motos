@@ -54,3 +54,4 @@ C:\Users\vinim\source\repos\MotoDojo\MotoDojo\obj\Debug\net6.0\MotoDojo.pdb
 C:\Users\vinim\source\repos\MotoDojo\MotoDojo\obj\Debug\net6.0\MotoDojo.genruntimeconfig.cache
 C:\Users\vinim\source\repos\MotoDojo\MotoDojo\obj\Debug\net6.0\ref\MotoDojo.dll
 C:\Users\vinim\source\repos\MotoDojo\MotoDojo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vinim\source\repos\MotoDojo\MotoDojo\bin\Debug\net6.0\Dapper.dll

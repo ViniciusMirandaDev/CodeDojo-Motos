@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bszxOgTUIpTenoX+mKUyEebfi0hl2gqth/VKKKqdzApYHcCqZDbIjsoxz55SEi0I1/jlVPpA0rsg9DbGU0lUAQ==",
+  "dgSpecHash": "hAHPI9UpEofGE+A7JDOl5A85cvMd71tkUccZwkZejW5mUwjV+ckztaLSv7FvmvCor8VtNI0pDRT8Hh1bpsxM1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\vinim\\source\\repos\\MotoDojo\\MotoDojo\\MotoDojo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinim\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\vinim\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\vinim\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\vinim\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vinim\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

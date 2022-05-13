@@ -16,7 +16,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IMotoService, MotoService>();
-builder.Services.AddScoped<IMotoRepository, MotoRepository>();
+builder.Services.AddScoped<IMotoRepository, MotoAdoNetRepository>();
 
 builder.Services.AddDbContext<CoreContext>(options =>
 {
